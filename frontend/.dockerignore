@@ -1,0 +1,6 @@
+node_modules
+.next
+out
+*.log
+# NOTE: .env.local is intentionally NOT ignored — it sets NEXT_PUBLIC_API_URL,
+# which is baked into the client bundle at build time.

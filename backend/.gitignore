@@ -1,0 +1,9 @@
+# Maven build output
+/target
+
+# H2 database files (generated at runtime)
+/data
+
+# IDE
+/.idea
+*.iml

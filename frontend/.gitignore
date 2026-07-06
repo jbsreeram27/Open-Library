@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+
+# next.js build output
+/.next
+/out
+
+# misc
+.DS_Store
+*.log
+
+# local env files (keep .env.local so the API URL ships with the demo)
+.env*.local.bak
