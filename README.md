@@ -142,6 +142,10 @@ D:\FoxBookStore\
 
 ---
 
+## License
+
+Released under the [MIT License](LICENSE).
+
 ## Notes
 
 - Storage is a persistent H2 database file (`backend/data/`). Delete that folder
